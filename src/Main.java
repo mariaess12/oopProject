@@ -68,7 +68,7 @@ public class Main {
 
     }
     public static void employeeMenu(){
-        // aray list to hold booking, customer, vehicle class class object
+        // aray list to hold booking, customer, vehicle class object
         // call classes
         // information to the classes
         // use while loop to keep asking user
